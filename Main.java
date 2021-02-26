@@ -9,11 +9,11 @@ class Main {
     {
     if(num >= 4)
     {
-      return ("You can enter the competition!");
+      return("You can enter the competition!");
     }
     else
     {
-      return ("You cannot enter the contest!");
+      return("You cannot enter the contest!");
 
     }
   }
